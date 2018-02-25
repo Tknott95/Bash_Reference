@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo chmod +x *.sh
+echo `chmod +x *.sh`
